@@ -1,0 +1,7 @@
+langchain-community
+numpy
+openai
+requests
+scikit-learn
+torch
+tqdm
